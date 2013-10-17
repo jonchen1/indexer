@@ -1,0 +1,1 @@
+ error number (liste\nd under ERRORS). If the\n end of the direc\ntory stream is reached, readdir_r() returns 0, and returns NULL in *result. 

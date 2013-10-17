@@ -1,0 +1,3 @@
+Let a be "Kwame will take a job in industry" and t be "Kwame will go to graduate school". Then (a v t) can be represented by
+	the statement "Kwame will take a job in industry or go to graduate school". By the second de Morgan's law ¬(a v t) is equivalent to (¬a ∧ ¬t). Thus
+	the negation of the original statement is "Kwame will not take a job in industry and will not go to graduate school"
